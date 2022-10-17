@@ -4,5 +4,7 @@ public class Main {
 
 
         System.out.println("lol");
+
+        System.out.println("mergetest");
     }
 }
